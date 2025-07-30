@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+langdetect
+pandas
+openpyxl
+fpdf
+gtts
+speechrecognition
+PyJWT
+passlib[bcrypt]
+Sqlalchemy
