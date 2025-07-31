@@ -11,3 +11,13 @@ speechrecognition
 PyJWT
 passlib[bcrypt]
 Sqlalchemy
+langchain_openai
+langchain_core
+langchain_community
+langchain-community
+aiosqlite  # (optional for async)
+pydantic
+langchain>=0.2.0
+langchain-openai>=0.1.0
+dotenv
+python-multipart
